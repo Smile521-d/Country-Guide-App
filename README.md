@@ -21,7 +21,7 @@ How to Run the Project
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/your-username/country-guide-app.git
+git clone (https://smile521-d.github.io/Country-Guide-App/)
 Navigate to the project directory:
 sh
 Copy code
